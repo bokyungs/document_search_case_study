@@ -10,12 +10,12 @@ For indexed search, it calls the document method that creates the index first.
   - Text search using regular expressions  
   - Preprocess the document content and search the index    
 
-**inputfile.txt** - a file that contains the list of input files used for searching.  It currently has names of three files:  
+**input_file.txt** - a file that contains the list of input files used for searching.  It currently has names of three files:  
   - *french_armed_forces.txt*  
   - *hitchhikers.txt*  
   - *warp_drive.txt*  
 
-In order to run the program in Eclipse, make sure that *inputfile.txt* is placed at the project level. 
+In order to run the program in Eclipse, make sure that *input_file.txt* is placed at the project level. 
 
 The Java programs and its input file can be found in [document_search_case_study](https://github.com/bokyungs/document_search_case_study).   
 
